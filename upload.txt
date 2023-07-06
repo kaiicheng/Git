@@ -1,0 +1,20 @@
+// add a specific file
+git add <file>
+
+// add all files
+git add .
+
+// check if file added
+git status
+
+// commit with note
+git commit -m "..."
+
+// check git log history
+git log
+
+// gitk gui
+gitk
+
+// push to online repository
+git push 
