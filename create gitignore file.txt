@@ -1,0 +1,4 @@
+// This will create the .gitignore file having text content "./idea".
+echo .gitignore
+
+// manually add and remove content of files
