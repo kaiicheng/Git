@@ -1,0 +1,2 @@
+// remove cached history untrack files
+git rm -r --cached .
